@@ -18,7 +18,7 @@
 * how to reverse the order of all the rowes of a dataframe?
 
 ##### simulation
-* estimate pi w/ uniform generator in Monte Carlo? What's the standard deviation?
+* estimate pi w/ uniform generator in Monte Carlo? What's the standard error?
 
 ### _Advanced_
 ##### algo
